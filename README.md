@@ -1,4 +1,4 @@
-# 🤖 Multimodal RAG Chatbot with Internal Grader
+# 🤖 Multimodal RAG Chatbot
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot built using LangChain and Gradio, extended to handle **multimodal PDF inputs** (text + images) and **evaluate its own answers** with an internal grading pipeline.
 
