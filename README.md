@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Multimodal RAG Chatbot with Internal Grader
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot built using LangChain and Gradio, extended to handle **multimodal PDF inputs** (text + images) and **evaluate its own answers** with an internal grading pipeline.
@@ -37,5 +36,3 @@ Built during my internship under the mentorship of Mr. Deepak Rawat from DeepKla
 This project taught me how to combine computer vision, LLMs, and UX — and I’m incredibly grateful for the experience!
 
 ---
-
-````
